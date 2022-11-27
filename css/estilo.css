@@ -1,0 +1,79 @@
+@charset "utf-8";
+body{
+    background: url(https://i.pinimg.com/736x/e7/c3/e7/e7c3e74b9caccdd7fb9812430c9e341d.jpg);
+    background-size: cover;
+    padding: 10px;
+}
+section#interface{
+    display: block;
+    margin: auto;
+    max-width: 800px;
+}
+div#interface1{
+    font-size: 1110x;
+    justify-content: center;
+}
+section#titulo{
+    display: flex;
+    height: 300px;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: linear-gradient(320deg, #005d62 0, #005d6a 3.33%, #005c70 6.67%, #005c76 10%, #005b7c 13.33%, #005a80 16.67%, #005884 20%, #005686 23.33%, #005488 26.67%, #115288 30%, #2b4f87 33.33%, #3d4d85 36.67%, #4a4a82 40%, #56467e 43.33%, #60437a 46.67%, #694074 50%, #703d6e 53.33%, #773a67 56.67%, #7c3860 60%, #7f3758 63.33%, #823650 66.67%, #833649 70%, #843641 73.33%, #83383a 76.67%, #813a33 80%, #7f3c2c 83.33%, #7b3f26 86.67%, #774221 90%, #72451c 93.33%, #6d4818 96.67%, #674b14 100%);
+}
+div#cabecalho{
+    display: block;
+    position: relative;
+    text-align: center;
+}
+div#cabecalho{
+    display: block;
+    margin-top: 10px;
+    border: 2px solid white;
+    box-shadow: 1px 1px 4px black;
+    width: 300px;
+    height: 300px;
+    background: url(../imagens/Maria.png);
+    background-size: cover;
+}
+iframe{
+    width: 100%;
+}
+section#Poema{
+    border: 2px solid black;
+    text-align: center;
+}
+section#Poema h1{
+    margin: auto;
+    width: 300px;
+    font-size: 40px;
+}
+section#Poema h2{
+    text-align: end;
+}
+section#Poema h3{
+    text-align: justify;
+}
+div#poema h1{
+    background-image: linear-gradient(320deg, #005d62 0, #005d6a 3.33%, #005c70 6.67%, #005c76 10%, #005b7c 13.33%, #005a80 16.67%, #005884 20%, #005686 23.33%, #005488 26.67%, #115288 30%, #2b4f87 33.33%, #3d4d85 36.67%, #4a4a82 40%, #56467e 43.33%, #60437a 46.67%, #694074 50%, #703d6e 53.33%, #773a67 56.67%, #7c3860 60%, #7f3758 63.33%, #823650 66.67%, #833649 70%, #843641 73.33%, #83383a 76.67%, #813a33 80%, #7f3c2c 83.33%, #7b3f26 86.67%, #774221 90%, #72451c 93.33%, #6d4818 96.67%, #674b14 100%);
+}
+footer{
+    display: block;
+    background-color: #000000;
+    text-align: center;
+    background-image: linear-gradient(320deg, #005d62 0, #005d6a 3.33%, #005c70 6.67%, #005c76 10%, #005b7c 13.33%, #005a80 16.67%, #005884 20%, #005686 23.33%, #005488 26.67%, #115288 30%, #2b4f87 33.33%, #3d4d85 36.67%, #4a4a82 40%, #56467e 43.33%, #60437a 46.67%, #694074 50%, #703d6e 53.33%, #773a67 56.67%, #7c3860 60%, #7f3758 63.33%, #823650 66.67%, #833649 70%, #843641 73.33%, #83383a 76.67%, #813a33 80%, #7f3c2c 83.33%, #7b3f26 86.67%, #774221 90%, #72451c 93.33%, #6d4818 96.67%, #674b14 100%);
+}
+a{
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:hover{
+    background-color: rgb(16, 19, 16);
+    transition: background-color 1s;
+    text-decoration: none;
+    color: antiquewhite;
+}
